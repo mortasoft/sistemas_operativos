@@ -15,3 +15,4 @@ Ejemplo de Bitacora de Comandos
    - `cd /home/usuario/carpeta` cambia al directorio con la ruta completa
    - `cd` cambia al directorio /home del usuario actual
 - `pwd` Muestra el directorio actual
+- `htop` Muestra la lista de procesos
